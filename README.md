@@ -25,5 +25,5 @@ This Terraform configuration deploys a WordPress site with MySQL database using 
 ## Cloning this repository
    
    ```bash
-   git clone https://github.com/AhmedShawkySokkar/wordpress-docker-terraform.git
+   git clone https://github.com/AhmedShawkySokkar/Docker_with_Terraform
    cd wordpress-docker-terraform
